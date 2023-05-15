@@ -171,7 +171,7 @@ margin:  50px 0;
 }
 .eventSec{
     min-height: 400px;
-    width: min(550px,100vw);
+    width: min(530px,100vw);
     /* padding: 10px; */
     border: 2px solid ;
     border-color: var(--darkGreen);
@@ -229,7 +229,7 @@ text-align: center;
 
 .studentInfo{
     min-height: 400px;
-    width: 550px;
+    width: 530px;
     border: 2px solid;
     border-color: var(--darkGreen);
     margin-top: 50px;
@@ -327,7 +327,7 @@ margin-top: 50px;
 .highlightCard{
     height: 400px;
     width: 250px;
-    margin: 20px 0;
+    margin: 20px 10px;
     border: 2px solid black;
     overflow: hidden;
 }
@@ -379,7 +379,7 @@ margin-top: 50px;
     font-size:1.4rem;
     font-family: var(--mainfont);
     font-weight: 800;
-    padding: 10px;
+    padding: 10px 0;
 color: var(--darkGreen);
 }
 .FooterText{
